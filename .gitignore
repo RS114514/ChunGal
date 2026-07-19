@@ -20,3 +20,8 @@ ehthumbs.db
 .project
 .classpath
 .settings/
+
+# Binaries and Archives
+*.zip
+*.exe
+*.dll
